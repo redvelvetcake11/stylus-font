@@ -1,0 +1,7 @@
+* {
+    font-family: 'Prelude';
+}
+
+code, .cm-line, .cm-line *, .monaco-editor * {
+    font-family: monospace !important;
+}
